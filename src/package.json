@@ -1,0 +1,29 @@
+{
+    "name": "team-profile",
+    "version": "1.0.0",
+    "description": "a profile generator to be able to see everyone on your team and how they are classified",
+    "main": "index.js",
+    "scripts": {
+      "test": "jest"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/TayHern/Team-Profile.git"
+    },
+    "keywords": [
+      "OOP",
+      "jest"
+    ],
+    "author": "Taylor Hernandez",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/TayHern/Team-Profile/issues"
+    },
+    "homepage": "https://github.com/TayHern/Team-Profile#readme",
+    "devDependencies": {
+      "jest": "^27.5.1"
+    },
+    "dependencies": {
+      "inquirer": "^8.2.2"
+    }
+  }
